@@ -1,8 +1,8 @@
 {
-  "version": "1.0.13",
-  "build": "95",
-  "released": "2026-08-19",
-  "headline": "Several jobs now really run at once, the app says how many can, and the log finally has something in it.",
+  "version": "1.0.14",
+  "build": "97",
+  "released": "2026-08-25",
+  "headline": "A finished trench job now lands on a summary that says what is left, what it is worth, and lets you set aside the structures you never bill.",
   "notes": "",
-  "download": ""
+  "download": "https://drive.google.com/drive/folders/15a9wKzYPFc-a8719ZDTDp_IqNQxsEaML"
 }
