@@ -1,8 +1,8 @@
 {
-  "version": "1.0.14",
-  "build": "97",
-  "released": "2026-08-25",
-  "headline": "A finished trench job now lands on a summary that says what is left, what it is worth, and lets you set aside the structures you never bill.",
+  "version": "1.0.15",
+  "build": "98",
+  "released": "2026-08-31",
+  "headline": "Populate now opens the workbook on the Trench tab only. Other tabs are still filled from the template, just hidden until we turn them back on.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/15a9wKzYPFc-a8719ZDTDp_IqNQxsEaML"
+  "download": "https://drive.google.com/drive/folders/1CTyqZuA_FL9etAciZ_3Ed2O-etSYZNwo"
 }
