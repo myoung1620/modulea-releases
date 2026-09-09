@@ -1,8 +1,8 @@
 {
-  "version": "1.0.15",
-  "build": "98",
-  "released": "2026-08-31",
-  "headline": "Populate now opens the workbook on the Trench tab only. Other tabs are still filled from the template, just hidden until we turn them back on.",
+  "version": "1.1.0",
+  "build": "149",
+  "released": "2026-09-09",
+  "headline": "Drop in a whole job folder. Populate grows the workbook instead of stopping, and a repeated name is only a repeat inside its own utility.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1CTyqZuA_FL9etAciZ_3Ed2O-etSYZNwo"
+  "download": "https://drive.google.com/drive/folders/1iUKSQ1z7Tqv9fIn8i4QYh8y4bnnnhksd"
 }
