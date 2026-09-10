@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "build": "149",
-  "released": "2026-09-09",
-  "headline": "Drop in a whole job folder. Populate grows the workbook instead of stopping, and a repeated name is only a repeat inside its own utility.",
+  "version": "1.2.0",
+  "build": "163",
+  "released": "2026-09-10",
+  "headline": "Two editions (full, and QA Scrub only). Every Trench number is marked checked, contradicted or unverified. Scope lines no longer pass on unread sheets.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1iUKSQ1z7Tqv9fIn8i4QYh8y4bnnnhksd"
+  "download": "https://drive.google.com/drive/folders/1UFV5VdbL2JbG6p1XvfbVLtKHuwFNE60I"
 }
