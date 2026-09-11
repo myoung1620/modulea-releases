@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "build": "163",
-  "released": "2026-09-10",
-  "headline": "Two editions (full, and QA Scrub only). Every Trench number is marked checked, contradicted or unverified. Scope lines no longer pass on unread sheets.",
+  "version": "1.2.1",
+  "build": "164",
+  "released": "2026-09-11",
+  "headline": "Beta surfaces hidden. A downsampled sheet is flagged. DWG conversion fails closed. Rock surfaces named -rock or -TOR are recognized.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1UFV5VdbL2JbG6p1XvfbVLtKHuwFNE60I"
+  "download": "https://drive.google.com/drive/folders/1oa2dIpfrwpwm4w66SygEttlWlBEpmToG"
 }
