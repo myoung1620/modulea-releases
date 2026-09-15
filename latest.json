@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "build": "164",
-  "released": "2026-09-11",
-  "headline": "Beta surfaces hidden. A downsampled sheet is flagged. DWG conversion fails closed. Rock surfaces named -rock or -TOR are recognized.",
+  "version": "1.2.2",
+  "build": "177",
+  "released": "2026-09-14",
+  "headline": "Trench Takeoff: a cell is green only when an independent fact vouches for it. Populate asks for the trench datum instead of assuming one. Wrong numbers in green cells on the seven sample bids: 58 down to 22.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1oa2dIpfrwpwm4w66SygEttlWlBEpmToG"
+  "download": "https://drive.google.com/drive/folders/1b21-DrvfuR91aUQaJgG2RVCv8EsjZ_bu"
 }
