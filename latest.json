@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "build": "177",
-  "released": "2026-09-14",
-  "headline": "Trench Takeoff: a cell is green only when an independent fact vouches for it. Populate asks for the trench datum instead of assuming one. Wrong numbers in green cells on the seven sample bids: 58 down to 22.",
+  "version": "1.3.0",
+  "build": "213",
+  "released": "2026-09-16",
+  "headline": "Trench Takeoff: a three-step import wizard shows what the takeoff needs and what each file supplies before the run. With the finished Trench tab imported, every row that disagrees with it is flagged, never green. Rows within a foot on the seven sample bids: 361 up to 535.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1b21-DrvfuR91aUQaJgG2RVCv8EsjZ_bu"
+  "download": "https://drive.google.com/drive/folders/1yxz1GBbrR2QocC-XpFKPFIvKnT5uB5nm"
 }
