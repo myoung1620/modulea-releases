@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "build": "213",
-  "released": "2026-09-16",
-  "headline": "Trench Takeoff: a three-step import wizard shows what the takeoff needs and what each file supplies before the run. With the finished Trench tab imported, every row that disagrees with it is flagged, never green. Rows within a foot on the seven sample bids: 361 up to 535.",
+  "version": "1.3.1",
+  "build": "232",
+  "released": "2026-09-24",
+  "headline": "Trench Takeoff: structures are placed from the names printed on the plan sheets pinned into the drawing, and a structure inside the traced rock boundary is priced under the open cut. Two jobs the tool had never seen were run blind: 114 of 124 rows right on one, none wrong and green. QA Scrub: large civil sets upload as normal, Dismiss works, the map loads, findings name their layer, and the rock rule is the refusal count.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1yxz1GBbrR2QocC-XpFKPFIvKnT5uB5nm"
+  "download": "https://drive.google.com/drive/folders/1VvUSaeUs3zjCjbcO0TWNw6CKYe-14GC3"
 }
