@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "build": "245",
-  "released": "2026-09-26",
-  "headline": "QA Scrub, from the Primrose testing: drillholes without names are identified through the Image_Geotech picture in the drawing, so each boring log is compared against its own hole. Utilities and stormwater facilities are measured against rock rather than flagged as missing. The evidence window zooms and pans. The QA edition can now update itself.",
+  "version": "1.5.0",
+  "build": "256",
+  "released": "2026-09-29",
+  "headline": "Trench Takeoff, ready for beta testing: no depth is shown green unless the checks can vouch for it, at the 1.5 ft tolerance MDB set. Structures labelled only beside plan callouts are found and read. The Luke and Jeff divisions now ship calibrated. QA Scrub pairs each boring label with the symbol it is printed beside.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1Vn_6fzYHoW_-IK20j6SxXXAQI7WZ1yEa"
+  "download": "https://drive.google.com/drive/folders/13TjFGE3w6clyyAx9hZhrnQCT1COxpsoc"
 }
