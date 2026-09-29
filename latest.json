@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "build": "256",
+  "version": "1.5.1",
+  "build": "259",
   "released": "2026-09-29",
-  "headline": "Trench Takeoff, ready for beta testing: no depth is shown green unless the checks can vouch for it, at the 1.5 ft tolerance MDB set. Structures labelled only beside plan callouts are found and read. The Luke and Jeff divisions now ship calibrated. QA Scrub pairs each boring label with the symbol it is printed beside.",
+  "headline": "Trench fixes from the first beta test: a small job whose drawing has few pipe junctions is no longer refused, and a folder holding both a finished takeoff and a blank copy compares against the finished one.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/13TjFGE3w6clyyAx9hZhrnQCT1COxpsoc"
+  "download": "https://drive.google.com/drive/folders/1qib7ofXmFxFLWdL-Uhmm2FIDVrhVDhup"
 }
