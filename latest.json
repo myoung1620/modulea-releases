@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
-  "build": "259",
-  "released": "2026-09-29",
-  "headline": "Trench fixes from the first beta test: a small job whose drawing has few pipe junctions is no longer refused, and a folder holding both a finished takeoff and a blank copy compares against the finished one.",
-  "notes": "https://drive.google.com/file/d/1dKlfquvARqMt6BXs0YPZoQ7fMvlAlSjB/view",
-  "download": "https://drive.google.com/drive/folders/1qib7ofXmFxFLWdL-Uhmm2FIDVrhVDhup"
+  "version": "1.5.2",
+  "build": "265",
+  "released": "2026-09-30",
+  "headline": "The screens stay responsive while a run is going, and every QA Scrub finding now opens to show the values behind it. Fixes from the 29 September check-in, including the false boring-elevation and pavement-overlap flags.",
+  "notes": "",
+  "download": "https://drive.google.com/drive/folders/1ka9s2G2jyQ2XtfvWZzFAFTBwVdd1u1Nf"
 }
