@@ -1,8 +1,8 @@
 {
-  "version": "1.5.3",
-  "build": "269",
-  "released": "2026-10-01",
-  "headline": "Fixes from the 1 October trench report: Populate the workbook no longer hangs on a looped water system, a job with several DWGs now runs the Carlson drawing, and the engine status stays right after a restart.",
+  "version": "1.5.4",
+  "build": "276",
+  "released": "2026-10-06",
+  "headline": "From the 5 October trench feedback: the import wizard is about twice as fast and says what it is doing, the Summary opens with a scorecard against the estimator",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1f9la8ECI0gIZKrHkU4vN83dwg8h5jH-E"
+  "download": "https://drive.google.com/drive/folders/17Ek-TRc3xGdrgcQgLps3tqLXoR3S-alu"
 }
