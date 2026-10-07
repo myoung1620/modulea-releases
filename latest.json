@@ -1,8 +1,8 @@
 {
-  "version": "1.5.4",
-  "build": "276",
-  "released": "2026-10-06",
-  "headline": "From the 5 October trench feedback: the import wizard is about twice as fast and says what it is doing, the Summary opens with a scorecard against the estimator",
+  "version": "1.5.5",
+  "build": "280",
+  "released": "2026-10-07",
+  "headline": "The Trench Information Sheet now says where every row was read: Name Of Doc, Page Number, Sheet Number and Layer. And the app clears out engines left running by earlier versions each time it starts.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/17Ek-TRc3xGdrgcQgLps3tqLXoR3S-alu"
+  "download": "https://drive.google.com/drive/folders/1t3n13M_6vmS3nd_VRu35oiS8DOk5elZZ"
 }
