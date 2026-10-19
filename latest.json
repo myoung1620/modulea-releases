@@ -1,8 +1,8 @@
 {
-  "version": "1.5.6",
-  "build": "282",
-  "released": "2026-10-08",
-  "headline": "Fixes the trench run on Retreat at Crosspointe that stopped partway with an error, and the trench job list that said all 4 slots were busy when only one job was running.",
+  "version": "1.5.7",
+  "build": "288",
+  "released": "2026-10-19",
+  "headline": "The Trench Runs tab is now visible in the exported trench workbook, and a finished QA Scrub job has a Files tab listing what the run read.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1QCfgkvUfyW2ytCOla6YbLamwhd_gLNIY"
+  "download": "https://drive.google.com/drive/folders/1m_ND8xGjjdLGNAPLwVreRMnilP7EVeUn"
 }
