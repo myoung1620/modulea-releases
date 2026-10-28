@@ -1,8 +1,8 @@
 {
-  "version": "1.5.7",
-  "build": "288",
-  "released": "2026-10-19",
-  "headline": "The Trench Runs tab is now visible in the exported trench workbook, and a finished QA Scrub job has a Files tab listing what the run read.",
-  "notes": "",
-  "download": "https://drive.google.com/drive/folders/1m_ND8xGjjdLGNAPLwVreRMnilP7EVeUn"
+  "version": "1.5.14",
+  "build": "312",
+  "released": "2026-10-26",
+  "headline": "Luke's and Alan's answers built in: partial runs, runs priced at the pipe, footprint deduction, deep trench flag, and regional division presets.",
+  "notes": "https://drive.google.com/file/d/18KWwxa-69ujHifWZNcwEenUl4EYJH4v7/view",
+  "download": "https://drive.google.com/drive/folders/1t60Whp8wbbX85cm2gf8yvqk346iairCJ"
 }
