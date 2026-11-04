@@ -1,8 +1,8 @@
 {
-  "version": "1.5.16",
-  "build": "322",
-  "released": "2026-11-02",
-  "headline": "Trench rows stay with their line: drawn pipe is written next to the profile it belongs to, so like items are no longer scattered down the sheet.",
+  "version": "1.5.17",
+  "build": "327",
+  "released": "2026-11-03",
+  "headline": "Trench follows MDB's takeoff method more closely: profile text wins over guesses, drawn pipe only crosses match lines on profiled jobs, and the elevations sheet gets a Carlson zoom column and point file.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1pCOjMRn_fziZD6MtjWBS0PunjN3alq__"
+  "download": "https://drive.google.com/drive/folders/1RrBgPEN-qrSgBnanLkTWLIiJFxztOMo2"
 }
