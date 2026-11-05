@@ -1,8 +1,8 @@
 {
-  "version": "1.5.17",
-  "build": "327",
-  "released": "2026-11-03",
-  "headline": "Trench follows MDB's takeoff method more closely: profile text wins over guesses, drawn pipe only crosses match lines on profiled jobs, and the elevations sheet gets a Carlson zoom column and point file.",
+  "version": "1.5.18",
+  "build": "333",
+  "released": "2026-11-04",
+  "headline": "Reads now use Claude Opus 5.5 every time, structure tables are read as runs, and 743 of 805 MDB runs are reproduced across ten finished takeoffs (668 in 1.5.17).",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1RrBgPEN-qrSgBnanLkTWLIiJFxztOMo2"
+  "download": "https://drive.google.com/drive/folders/1HZk-8MxeUBdeU6q-usaPCtSDM3dJitNn"
 }
