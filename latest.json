@@ -1,8 +1,8 @@
 {
-  "version": "1.5.18",
-  "build": "333",
-  "released": "2026-11-04",
-  "headline": "Reads now use Claude Opus 5.5 every time, structure tables are read as runs, and 743 of 805 MDB runs are reproduced across ten finished takeoffs (668 in 1.5.17).",
+  "version": "1.5.19",
+  "build": "380",
+  "released": "2026-11-08",
+  "headline": "Trench depths: 583 of 911 estimator rows within half a foot across 14 finished takeoffs; on the six jobs both builds were scored on, 307 rows against 102 in 1.5.18. Includes a test guide for each job.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1HZk-8MxeUBdeU6q-usaPCtSDM3dJitNn"
+  "download": "https://drive.google.com/drive/folders/1mWYrA4YIC3Gi7HkaPrAgp1O4tt3C-T2I"
 }
