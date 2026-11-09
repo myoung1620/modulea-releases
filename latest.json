@@ -1,8 +1,8 @@
 {
-  "version": "1.5.19",
-  "build": "380",
-  "released": "2026-11-08",
-  "headline": "Trench depths: 583 of 911 estimator rows within half a foot across 14 finished takeoffs; on the six jobs both builds were scored on, 307 rows against 102 in 1.5.18. Includes a test guide for each job.",
+  "version": "1.5.20",
+  "build": "382",
+  "released": "2026-11-09",
+  "headline": "Trench: a plan set's PIPE SCHEDULE is now read as a table, not as profiles. On Cushwa the storm runs drop from 63 to 29 and follow the estimator's order. No other test job changes.",
   "notes": "",
-  "download": "https://drive.google.com/drive/folders/1mWYrA4YIC3Gi7HkaPrAgp1O4tt3C-T2I"
+  "download": "https://drive.google.com/drive/folders/1W1TL7rgEXtTbo8WZ6Axki5FibYQj7JEv"
 }
